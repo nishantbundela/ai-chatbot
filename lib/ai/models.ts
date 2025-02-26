@@ -8,7 +8,7 @@ import {
 } from 'ai';
 import { bottlrProvider } from './bottlrProvider2'; // Import the bottlrProvider directly
 
-export const DEFAULT_CHAT_MODEL: string = 'chat-model-small';
+export const DEFAULT_CHAT_MODEL: string = 'bottlr-backend';
 
 export const myProvider = customProvider({
   languageModels: {
