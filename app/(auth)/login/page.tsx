@@ -42,7 +42,7 @@ export default function Page() {
   return (
     <div 
       className="flex h-dvh w-screen items-start pt-12 md:pt-0 md:items-center justify-center 
-                 bg-[url('/images/login-bg.jpg')] bg-cover bg-center bg-no-repeat"
+                 bg-[url('/images/login-bg.avif')] bg-cover bg-center bg-no-repeat"
     >
       <div className="flex flex-col gap-4 w-full max-w-md">
         {/* Welcome Box */}
